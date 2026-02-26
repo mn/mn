@@ -1,46 +1,40 @@
-<!-- LOGO HERO -->
+<!-- HERO: MYTHO -->
 <p align="center">
-  <img src="./mytho.png" alt="Mytho" width="120" />
+  <img src="./mytho.png" alt="Mytho" width="200" />
 </p>
 
 <h1 align="center">Marc</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=700&color=6EE7F9&center=true&vCenter=true&width=520&lines=Founder+of+Mytho;Building+AfterSync;iOS+%7C+Cloud+%7C+Automation;Shipping+real+products" />
+  Founder of <strong>Mytho</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Founder-Mytho-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/iOS-SwiftUI-black?style=for-the-badge&logo=apple" />
-  <img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20AWS%20%7C%20Firebase-0ea5e9?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=9CA3AF&center=true&vCenter=true&width=480&lines=Building+real+products;Shipping+over+slides;Automation+first" />
 </p>
 
 ---
 
-## 🚀 What I’m Building
-
+<!-- AFTERSYNC -->
 <p align="center">
-  <img src="./aftersync.png" alt="AfterSync" width="160" />
+  <img src="./aftersync.png" alt="AfterSync" width="260" />
 </p>
 
-### **AfterSync**
-A real-world social discovery app focused on nightlife, events, and presence — not endless scrolling.
+<p align="center">
+  Real-world social discovery for nightlife, events, and presence.
+</p>
 
-**Core ideas**
-- 📍 Location-aware discovery  
-- 👥 Social presence (who’s here / who’s planning)  
-- 🗺️ Live venue & event signals  
-- 🔒 Privacy-first by default  
-
-Built with **production scale** and **real users** in mind from day one.
+<p align="center">
+  📍 Discovery &nbsp;&nbsp;•&nbsp;&nbsp; 👥 Social Presence &nbsp;&nbsp;•&nbsp;&nbsp; 🗺️ Live Signals
+</p>
 
 ---
 
-## 🧠 Founder Mindset
+## 🧠 Focus
 
 ```txt
-Ship fast
-Automate everything
-Design for failure
-Measure what matters
-Build systems that don’t need babysitting
+iOS-first
+Cloud-native
+Event-driven
+Privacy-first
+Built to scale
