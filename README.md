@@ -1,40 +1,96 @@
-<!-- HERO: MYTHO -->
+<!-- ===================== -->
+<!--        MYTHO          -->
+<!-- ===================== -->
+
 <p align="center">
-  <img src="./mytho.png" alt="Mytho" width="200" />
+  <img src="./mytho.png" alt="Mytho" width="240" />
 </p>
 
-<h1 align="center">Marc</h1>
+<h1 align="center">Mytho</h1>
 
 <p align="center">
-  Founder of <strong>Mytho</strong>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=9CA3AF&center=true&vCenter=true&width=480&lines=Building+real+products;Shipping+over+slides;Automation+first" />
-</p>
-
----
-
-<!-- AFTERSYNC -->
-<p align="center">
-  <img src="./aftersync.png" alt="AfterSync" width="260" />
+  <em>Software Development • Social Networking</em>
 </p>
 
 <p align="center">
-  Real-world social discovery for nightlife, events, and presence.
+  Turning imagination into reality through beautifully crafted apps.
 </p>
 
+<br/>
+
 <p align="center">
-  📍 Discovery &nbsp;&nbsp;•&nbsp;&nbsp; 👥 Social Presence &nbsp;&nbsp;•&nbsp;&nbsp; 🗺️ Live Signals
+  <strong>Founder:</strong> Marc<br/>
+  Philadelphia
 </p>
 
 ---
 
-## 🧠 Focus
+<!-- ===================== -->
+<!--      AFTERSYNC        -->
+<!-- ===================== -->
 
-```txt
-iOS-first
-Cloud-native
-Event-driven
-Privacy-first
-Built to scale
+<p align="center">
+  <img src="./aftersync.png" alt="AfterSync" width="300" />
+</p>
+
+<h2 align="center">AfterSync</h2>
+
+<p align="center">
+  Going out? We got you.
+</p>
+
+<p align="center">
+  Discover where to go, see who’s there, and remember the people you meet.
+</p>
+
+<p align="center">
+  📍 Discover venues &nbsp;&nbsp;•&nbsp;&nbsp; 👥 See who’s there &nbsp;&nbsp;•&nbsp;&nbsp; 🗺️ Track your nights
+</p>
+
+<p align="center">
+  <a href="https://aftersync.net">
+    <strong>Visit AfterSync →</strong>
+  </a>
+</p>
+
+---
+
+## How It Works
+
+**01 — Discover Venues**  
+Browse curated nightlife spots or use the interactive map to explore nearby venues.
+
+**02 — Check In**  
+Check in while you’re at the venue to start building your nightlife history.
+
+**03 — Track Attendees**  
+See verified venue attendees and keep track of places and people you’ve encountered.
+
+**04 — Plan Your Night**  
+Use *Tonight’s Plans* to organize where you’re heading throughout the night.
+
+---
+
+## About
+
+AfterSync is built to enhance real-world experiences — not replace them.  
+It’s designed around **presence**, **memory**, and **intentional social discovery**, with privacy and simplicity at the core.
+
+---
+
+## Contact
+
+<p align="center">
+  Questions, feedback, or ideas?
+</p>
+
+<p align="center">
+  <strong>support@mytho.org</strong>
+</p>
+
+---
+
+<p align="center">
+  <em>AfterSync is a product of Mytho.</em><br/>
+  © 2026 Mytho LLC. All rights reserved.
+</p>
