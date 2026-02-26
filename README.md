@@ -1,62 +1,49 @@
-<!-- ===================== -->
-<!--      MYTHO • AFTERSYNC -->
-<!-- ===================== -->
+<h1 align="center">Marcus Noel</h1>
 
 <p align="center">
-  <img src="./mytho.png" alt="Mytho" width="260" />
+  Philadelphia
 </p>
 
-<h1 align="center">Mytho</h1>
 <p align="center">
-  <sub>Software Development • Social Networking</sub>
+  Founder · Mytho
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="./aftersync.png" alt="AfterSync" width="360" />
-</p>
-
-<h2 align="center">AfterSync</h2>
-
-<p align="center">
-  <strong>Going out? We got you.</strong><br/>
-  Discover where to go, see who’s there, and remember the people you meet.
+  ─────────────────────────
 </p>
 
 <p align="center">
-  <a href="https://aftersync.net"><strong>Website</strong></a>
-  &nbsp;•&nbsp;
-  <a href="https://aftersync.net"><strong>Get the App</strong></a>
+  Software · Products · Systems
 </p>
 
 <br/>
 
 <p align="center">
-  <kbd>📍 Discover</kbd>
-  <kbd>✅ Check in</kbd>
-  <kbd>👥 Track attendees</kbd>
-  <kbd>🗓️ Tonight’s Plans</kbd>
+  <kbd>Mobile</kbd>
+  <kbd>Cloud</kbd>
+  <kbd>Automation</kbd>
+  <kbd>UX</kbd>
 </p>
 
 <br/>
 
----
-
-### What I’m building
-- Curated venue discovery (Philly-first)
-- Verified check-ins & presence
-- Night history (places + people)
-- Simple planning flow for your night
-
-### Principles
-- Real-world first (no endless scroll)
-- Privacy by default
-- Clean UX, strong intent
-- Built to scale
-
----
+<p align="center">
+  ─────────────────────────
+</p>
 
 <p align="center">
-  <sub>AfterSync is a product of <strong>Mytho</strong>. © 2026 Mytho LLC.</sub>
+  Building intentional software<br/>
+  for real-world use
+</p>
+
+<br/>
+
+<p align="center">
+  ─────────────────────────
+</p>
+
+<p align="center">
+  <sub>© Mytho LLC</sub>
 </p>
