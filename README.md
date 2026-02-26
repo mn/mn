@@ -1,44 +1,15 @@
 <h1 align="center">Marcus Noel</h1>
-<h3 align="center">Founder · Software Engineer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Founder-Mytho-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" />
+  <a href="https://mytho.org/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Founder-Mytho-7C3AED?style=for-the-badge&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Product%20Engineering-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Automation-16A34A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scale-F59E0B?style=flat-square" />
-</p>
-
----
-
-### ⚡ Focus
-- Product-driven systems  
-- Cloud-native architecture  
-- Workflow automation  
-- Reliability & observability  
-
----
-
-### 🚀 Current
-Founder at **Mytho**  
-Building production software that scales
-
----
-
-### 🧰 Tech
-<p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/APIs-0F172A?style=flat" />
-  <img src="https://img.shields.io/badge/CI/CD-9333EA?style=flat" />
-</p>
-
----
-
-<p align="center">
-  <em>Build things that last.</em>
+  <img src="https://img.shields.io/badge/iOS_Apps-0A84FF?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scalable_Backends-111827?style=flat-square" />
 </p>
