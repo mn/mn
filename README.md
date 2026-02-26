@@ -1,6 +1,10 @@
 <h1 align="center">Marcus Noel</h1>
 
 <p align="center">
+  📍 <strong>Philadelphia, PA</strong>
+</p>
+
+<p align="center">
   <a href="https://mytho.org/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Founder-Mytho-7C3AED?style=for-the-badge&logoColor=white" />
   </a>
@@ -11,5 +15,5 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scalable_Backends-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend_APIs-0F172A?style=flat-square&logo=fastapi&logoColor=white" />
 </p>
